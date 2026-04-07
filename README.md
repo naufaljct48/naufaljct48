@@ -57,7 +57,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=naufaljct48&theme=tokyonight&hide_border=true" alt="naufaljct48 GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naufaljct48&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="naufaljct48 Activity Graph" />
-</p>
