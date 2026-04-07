@@ -1,53 +1,63 @@
-<h1 align="center">Hi 👋, I'm Naufal Aziz (Nopools)</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer | SaaS Builder 🇮🇩</h3>
+<h1 align="center">Hi 👋, I'm Naufal Aziz Albaaqie (Nopools)</h1>
+<h3 align="center">Full-Stack Web & Mobile Developer | SaaS Enthusiast 🇮🇩</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=naufaljct48&label=Profile%20views&color=0e75b6&style=flat" alt="naufaljct48" /> 
+  <img src="https://komarev.com/ghpvc/?username=naufaljct48&label=Profile%20views&color=FF69B4&style=flat-square" alt="naufaljct48" /> 
 </p>
 
 <p align="center">
-  <a href="https://naufaljct48.vercel.app" target="_blank"><b>🌐 Check out my Portfolio</b></a>
+  <a href="https://naufaljct48.vercel.app" target="_blank"><b>🌐 Visit My Portfolio</b></a>
 </p>
 
+---
+
+### ⚡ Quick Summary
+- 🏥 **SIMRS Developer** at **RS Kanker Dharmais** (Building AIS, ATiDar, Regforis, SiKevin).
+- 🚀 **Founder/Lead** at **Navitek.id** (Currently shipping **Clippeak**).
+- 💼 **Full-Stack Developer** at **PT. Dimensi Sukses Pratama** (Crafting Dimensi HRIS Ecosystem).
+- 📱 Developing mobile apps with **Flutter** and **React Expo**.
+- 📈 AI & Forex Enthusiast (XAU/USD Trading).
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🌐 Web Development
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+#### ⚙️ Databases & Others
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+
+---
+
+### 📫 Connect with Me
 <p align="left">
-  🔭 I’m currently building SaaS products like <b>Clippeak</b> at <b><a href="https://navitek.id" target="_blank">Navitek.id</a></b>.<br>
-  🏥 Working as a Full-Stack Web/App Developer at <b>RS Kanker Dharmais (SIMRS)</b>.<br>
-  💼 Also shipping solutions for <b>PT. Dimensi Sukses Pratama</b> (including Dimensi HRIS Mobile).<br>
-  📱 Tech stack: Next.js, Tailwind, Flutter, React Expo, Laravel, and more.<br>
-  📫 How to reach me: <b>naufaljct48@gmail.com</b>
+<a href="https://linkedin.com/in/naufal-aziz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="naufal-aziz" /></a>
+<a href="https://instagram.com/naufal.xhtml" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="naufal.xhtml" /></a>
+<a href="https://twitter.com/solnopool" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="solnopool" /></a>
+<a href="mailto:naufaljct48@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="naufaljct48" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/solnopool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solnopool" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naufal-aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufal-aziz" height="30" width="40" /></a>
-<a href="https://fb.com/naufaljct48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naufaljct48" height="30" width="40" /></a>
-<a href="https://instagram.com/naufal.xhtml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufal.xhtml" height="30" width="40" /></a>
-<a href="https://discord.gg/@kurotenshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@kurotenshi" height="30" width="40" /></a>
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naufaljct48&theme=tokyonight&hide_border=true" alt="naufaljct48 GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native/expo" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> 
-  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naufaljct48&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="naufaljct48 Activity Graph" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufaljct48&show_icons=true&locale=en&theme=tokyonight" alt="naufaljct48 GitHub Stats" /></p>
