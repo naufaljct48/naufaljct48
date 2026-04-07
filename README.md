@@ -12,7 +12,7 @@
 ---
 
 ### ⚡ Quick Summary
-- 🏥 **SIMRS Developer** at **RS Kanker Dharmais** (Building AIS, ATiDar, Regforis, SiKevin, EMR (E-Medical Record)).
+- 🏥 **SIMRS Developer** at **RS Kanker Dharmais** (Building AIS, ATiDar, EMR (E-Medical Record), SiKevin).
 - 🚀 **Founder** at **Navitek.id** (Currently shipping **Clippeak**).
 - 💼 **Full-Stack Developer** at **PT. Dimensi Sukses Pratama** (Crafting Dimensi HRIS Ecosystem).
 - 📱 Developing mobile apps with **Flutter** and **React Expo**.
